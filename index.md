@@ -9,6 +9,7 @@ Bu sayfa içerisinde
 * derslere ait repositoryler
 * ödevler
 * duyurular
+
 Paylaşılmaktadır.
 
-Sayfa yönetimi [Dr.Alaettin UÇAN](aucan.github.io)tarafından yapılmaktadır
+Sayfa yönetimi [Dr.Alaettin UÇAN](www.aucan.github.io)tarafından yapılmaktadır
